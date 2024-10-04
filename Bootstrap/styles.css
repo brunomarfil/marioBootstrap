@@ -1,0 +1,17 @@
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-color: rgb(155, 157, 176); 
+}
+
+.carousel-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh; 
+  }
